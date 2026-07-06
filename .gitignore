@@ -1,0 +1,7 @@
+.DS_Store
+.agents/
+docker-images/
+storefront/node_modules/
+storefront/dist/
+medusa/node_modules/
+medusa/dist/

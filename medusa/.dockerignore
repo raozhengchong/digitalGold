@@ -1,0 +1,11 @@
+node_modules
+.medusa
+.git
+.env
+.env.*
+!.env.template
+integration-tests
+*.md
+.vscode
+coverage
+**/*.log
